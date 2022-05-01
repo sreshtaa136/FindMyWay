@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "new": "cpp",
+        "__string": "cpp",
+        "deque": "cpp",
+        "exception": "cpp",
+        "filesystem": "cpp",
+        "fstream": "cpp",
+        "functional": "cpp",
+        "istream": "cpp",
+        "locale": "cpp",
+        "memory": "cpp",
+        "ostream": "cpp",
+        "string": "cpp",
+        "utility": "cpp"
+    }
+}
